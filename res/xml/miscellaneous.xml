@@ -78,6 +78,13 @@
 
     <PreferenceCategory
         android:title="@string/switch_category">
+
+	<!-- GMS switch -->
+	<com.dirtyunicorns.support.preferences.SecureSettingSwitchPreference
+            android:key="gms_enabled"
+            android:title="@string/gms_enabled"
+            android:summary="@string/gms_enabled_desc"
+            android:defaultValue="true" />
         
         <!-- Ignore window secure -->
         <com.dirtyunicorns.support.preferences.SecureSettingSwitchPreference

@@ -1392,4 +1392,9 @@
     <!-- Idle Manager -->
     <string name="idle_manager_title">Idle Manager</string>
     <string name="idle_manager_summary">Stop all non-essential background processes when the device is idle</string>
+
+    <!-- GMS switch -->
+    <string name="gms_category">GMS</string>
+    <string name="gms_enabled">Enable Google services</string>
+    <string name="gms_enabled_desc">Disable Google services may help extend the battery life, but third-party apps relying on GMS components will not work properly.</string>
 </resources>
