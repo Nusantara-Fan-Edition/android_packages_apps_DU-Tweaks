@@ -54,6 +54,13 @@
     <PreferenceCategory
         android:title="@string/switch_category">
 
+        <!--  Application downgrade -->
+        <com.dirtyunicorns.support.preferences.GlobalSettingSwitchPreference
+            android:key="pm_downgrade_allowed"
+            android:title="@string/app_downgrade_title"
+            android:summary="@string/app_downgrade_summary"
+            android:defaultValue="false"/>
+        
         <com.dirtyunicorns.support.preferences.SystemSettingMasterSwitchPreference
             android:key="gaming_mode_enabled"
             android:fragment="com.dirtyunicorns.tweaks.fragments.GamingMode"

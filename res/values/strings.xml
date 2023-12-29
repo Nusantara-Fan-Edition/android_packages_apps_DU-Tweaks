@@ -1371,5 +1371,9 @@
     <string name="solid_gradient_light">Gradient light</string>
     <string name="solid_gradient_shape">Sharp gradient corner</string>
     <string name="solid_gradient_void_light">Gradient Void light</string>
-
+    
+    <!--  Application downgrade -->
+    <string name="app_downgrade_title">Allow application downgrade</string>
+    <string name="app_downgrade_summary">This allows you to downgrade applications. Note that this may lead to crashes and data corruption.</string>
+    
 </resources>
