@@ -264,6 +264,7 @@
         <item>@string/status_bar_battery_style_icon_landscape_coloros</item>
         <item>@string/status_bar_battery_style_icon_rlandscape_coloros</item>
         <item>@string/status_bar_battery_style_icon_landscape_miuipill</item>
+        <item>@string/status_bar_battery_style_icon_landscape_oneui7</item>
         <item>@string/status_bar_battery_style_circle</item>
         <item>@string/status_bar_battery_style_dotted_circle</item>
         <item>@string/status_bar_battery_style_filled_circle</item>
@@ -285,6 +286,7 @@
         <item>16</item>
         <item>17</item>
         <item>18</item>
+        <item>19</item>
         <item>9</item>
         <item>10</item>
         <item>11</item>
